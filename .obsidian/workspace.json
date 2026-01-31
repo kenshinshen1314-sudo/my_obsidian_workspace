@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rz.md.md",
+                "file": "Projects/健身app/FitnessApp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rz.md"
+              "title": "FitnessApp"
             }
           }
         ]
@@ -183,14 +183,16 @@
       "bases:新建数据库": false
     }
   },
-  "active": "69914854e396d050",
+  "active": "487a879683dba9f0",
   "lastOpenFiles": [
+    "Resources/article.md",
+    "Resources/books",
+    "rz.md.md",
     "Projects/健身app/FitnessApp.md",
     "CLAUDE.md.md",
     "未命名.base",
     "2026-01-28.md",
     "HOME.md.md",
-    "rz.md.md",
     "pictures",
     "pictures/Pasted image 20260126095641.png",
     "Projects/健身app",
@@ -200,7 +202,6 @@
     "04_Published",
     "03_Creating",
     "02_Reference",
-    "01_Thinking/notes",
-    "01_Thinking"
+    "01_Thinking/notes"
   ]
 }
